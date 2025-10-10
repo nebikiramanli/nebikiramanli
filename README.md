@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Blog Yazısı](https://medium.com/@nebikiramanli/test-blog-yaz%C4%B1s%C4%B1-1644545106a9?source=rss-1050b853a065------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
