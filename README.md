@@ -154,13 +154,12 @@
   </a>
 </p>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebikiramanli&show_icons=true&locale=en&layout=compact" alt="nebikiramanli" />&nbsp;</p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebikiramanli&show_icons=true&locale=en&layout=compact" alt="nebikiramanli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nebikiramanli&show_icons=true&locale=en" alt="nebikiramanli" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nebikiramanli&show_icons=true&locale=en" alt="nebikiramanli" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nebikiramanli&" alt="nebikiramanli" /></p>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nebikiramanli/nebikiramanli/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nebikiramanli/nebikiramanli/output/github-contribution-grid-snake.svg">
