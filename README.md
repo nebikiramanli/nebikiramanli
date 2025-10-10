@@ -160,3 +160,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nebikiramanli&show_icons=true&locale=en" alt="nebikiramanli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nebikiramanli&" alt="nebikiramanli" /></p>
+
+![Snake animation](https://github.com/<KULLANICI_ADIN>/repo-adin/output/github-contribution-grid-snake.svg)
+
