@@ -161,5 +161,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nebikiramanli&" alt="nebikiramanli" /></p>
 
-![Snake animation](https://github.com/<KULLANICI_ADIN>/repo-adin/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nebikiramanli/repo-adin/output/github-contribution-grid-snake.svg)
 
