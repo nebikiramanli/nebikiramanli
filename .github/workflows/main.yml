@@ -2,8 +2,8 @@ name: Generate Snake Game from GitHub Contribution Grid
 
 on:
   # Action haftada bir çalışsın (isteğe göre değiştirebilirsin)
-  schedule:
-    - cron: "0 0 * * 0"
+  #schedule:
+    #- cron: "0 0 * * 0"
   # Manuel olarak da çalıştırabilirsin
   workflow_dispatch:
   # Yeni commit geldiğinde de güncellesin
